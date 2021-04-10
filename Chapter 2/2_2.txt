@@ -1,0 +1,2 @@
+Since each relational or logical expression yields a value of 1 if true, and 0 if false-
+in a conditional statement, we can replace && with *
